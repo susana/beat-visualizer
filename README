@@ -1,0 +1,34 @@
+FINAL PROJECT: BEAT VISUALIZER
+AUTHORS:       SUSANA C DELGADILLO, ****** ****
+DATE:          5/5/2010
+
+
+The purpose of this program is to view 10 'beats,' all of which you (the user), create.
+
+
+You do not need to read the instructions here if you don't want to.
+You can just run the program from ExecuteVisualizer.java and read the instructions there.
+
+
+Instructions:
+1. Click the 'Start!' button. The Options, Color selection and Beat visualizer windows 
+will appear. 
+
+2. Using the first drop-down menu in the Options window, select a beat.
+
+3. On the Options and Color selection windows, choose the desired size, shape, 
+color, fill, frequency and name for the beat  that is currently selected.
+*Do this for as many of the beats as you wish. You may  leave the properties of 
+all the beats unchanged, if you wish.
+**The Beat visualizer window is resizable in order to accomodate large shapes.
+
+4. When you're satisfied with your beats, go to the 'Beats visualized' window.
+
+5. Select the beats that you want to view.
+
+6. Click on the 'Play selected beats' button. The selected beats will play 
+continuously until you hit stop. You can choose to view a new set of beats 
+simply by unchecking those you do not want to see, checking those you do want
+to see and again clicking the  Play button.
+NOTE: You can change the properties of your beats at anytime,even when they're 
+playing. The changes will be reflectedimmediately.
